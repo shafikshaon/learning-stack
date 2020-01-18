@@ -14,7 +14,7 @@ What is `event`?
 
   
 
-> The Event interface represents an event which takes place in the DOM tree to arrives at its target.
+> The Event interface represents an event that takes place in the DOM tree to arrives at its target.
 
   
   
